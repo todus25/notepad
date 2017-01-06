@@ -1,0 +1,9 @@
+pre tag html e...jevabe likbo sevabe dekhabe..
+var-dump dile php te full array ta dekhabe..
+endif condition er short form..
+foreach($i as $key=>$value)..
+explode php..vvi...array hisabe tghakbe output
+str-word count,strlen,
+how to remove three character from last
+substr($x,0,-5)
+seher theke 5 ta bad dibe
