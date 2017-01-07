@@ -5,3 +5,8 @@ $shop=array
            array('name
 
 var dump dekte hove
+array search vvi
+if(array_search('10',$y)  !== false)
+ {echo 'EXISt";
+  } else{ echo 'not exist';
+}
