@@ -6,4 +6,4 @@ explode php..vvi...array hisabe tghakbe output
 str-word count,strlen,
 how to remove three character from last
 substr($x,0,-5)
-seher theke 5 ta bad dibe
+seher theke 5 ta bad dibe vvvi pregmatch()to check pattern
